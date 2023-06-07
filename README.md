@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ericknls, you can call me as Erick, I live in Portugal and I'm 19 years old.
+- 👀 I’m interested in: Learn!
+- 🌱 I’m currently learning: Python.
+- 💞️ I’m looking to collaborate on: I'm just wanna study right now!
+- 📫 How to reach me: ericknls@icloud.com
